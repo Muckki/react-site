@@ -68,7 +68,7 @@ const App = () => {
             borderRadius: borderRadiusLG,
           }}
         >
-          Content
+          Contents
         </Content>
       </Layout>
     </Layout>
